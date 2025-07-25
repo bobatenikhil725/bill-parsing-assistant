@@ -1,0 +1,12 @@
+# Requirements for the Bill Parsing Assistant project
+
+flask
+gunicorn
+requests
+openai
+transformers
+sentence-transformers
+torch
+easyocr
+jsonschema
+streamlit

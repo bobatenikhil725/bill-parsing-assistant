@@ -1,0 +1,23 @@
+An e-commerce analytics organization aims to extract and
+utilize data from user purchase bills (provided in image
+format) for various analytical purposes.
+Your task is to develop an AI-powered assistant with the
+following capabilities:
+1. Chit-Chat: Engage in basic conversational
+interactions with users.
+2. Bill Parsing: Analyze and extract structured
+information from a bill image, adhering to a
+predefined schema.
+3. Data Export: Save the extracted bill information as a
+JSON file upon request.
+4. Information Querying: Answer user queries based on
+the information extracted from the bill.
+5. Accuracy: Leverage Generative AI techniques to
+achieve high accuracy (targeting near 100%) in
+information extraction.
+Use appropriate GenAI models and tools to fulfill these
+functionalities eTectively.
+Below are some of the sample images for bill, with more
+can be obtained from the Internet for validating your
+approach. Coding needs to be python language. One can
+use any of GenAI models: managed or open source.
